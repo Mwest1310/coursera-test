@@ -26,13 +26,14 @@ h1{
 	height: 320px;
 	background-color:lightslategrey;
 	margin: 50px 20px 10px 30px;
+	
 
 
 }
 h2{
 	position:absolute;
-	right:-4px;
-	top:-4px;
+	right:-5px;
+	top:-5px;
 	padding:5px 50px 5px 50px;
 	border:2px solid black;
 	
@@ -82,7 +83,7 @@ p{
 	}
 	.col-tab-1{
 		width: 100%;
-		height:100px;
+		
 
 	}
 	
